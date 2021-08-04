@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: ian.hambleton@cavehill.uwi.edu
-phone: (+1246) 426 6416
+phone: (+1 246) 426 6416
 address:
   street: George Alleyne Chronic Disease Research Centre, Jemmott's Lane
   city: Bridgetown
@@ -30,16 +30,16 @@ address:
   country: Barbados
   country_code: BB
 coordinates:
-  latitude: '13.0931106'
-  longitude: '-59.6096358'
-directions: Ask for Ian at the front desk
+  latitude: '13.09307'
+  longitude: '-59.60743'
+directions: Just ask for Ian
 office_hours:
   - 'Mon to Fri 08:00 to 16:00'
 # appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: Message Me
     link: 'https://twitter.com/CaribData'
 
 # Site header
@@ -128,7 +128,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 'mapnik'
   api_key: ''
   zoom: 15
 marketing:

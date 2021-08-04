@@ -25,4 +25,4 @@ subtitle:
 |---|---|---|
 |Ian Hambleton (Project Lead)|Full CV|{{% staticref "uploads/2020Aug_Hambleton_CV.pdf" "newtab" %}}Download{{% /staticref %}}|
 |Ian Hambleton|Short Biosketch|{{% staticref "uploads/2020Aug_Hambleton_bio.pdf" "newtab" %}}Download{{% /staticref %}}|
-|Selvi Jeyaseelan|Full CV|{{% staticref "uploads/2020Aug_Hambleton_bio.pdf" "newtab" %}}Download{{% /staticref %}}|
+|<mark>Selvi Jeyaseelan</mark>|Full CV|{{% staticref "uploads/2020Aug_Hambleton_bio.pdf" "newtab" %}}Download{{% /staticref %}}|

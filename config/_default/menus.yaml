@@ -13,13 +13,9 @@ main:
   - name: Planning Documents
     url: '#planning-docs'
     weight: 30
-
-  - name: REDCap
-    url: '#redcap'
+  - name: Key Outputs
+    url: '#key-outputs'
     weight: 40
-  - name: Project Team
-    url: '#roadmap'
-    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60

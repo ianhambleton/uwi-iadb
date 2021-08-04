@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ian Hambleton
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor of Biostatistics and Informatics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: The University of the West Indies
+  url: https://www.uwi.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -42,19 +42,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:ian.hambleton@cavehill.uwi.edu
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-5638-9794
+- icon: google-scholar
+  icon_pack: ai
+  link: https://www.ncbi.nlm.nih.gov/myncbi/ian.hambleton.1/bibliography/public/
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/CaribData
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/UWI-CaribData
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/ian-hambleton-statistician/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
