@@ -5,19 +5,20 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: '#landing'
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: Potential Services
+    url: '#features'
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Planning Documents
+    url: '#planning-docs'
     weight: 30
-  - name: Talks
-    url: '#talks'
+
+  - name: REDCap
+    url: '#redcap'
     weight: 40
-  - name: Publications
-    url: '#featured'
+  - name: Project Team
+    url: '#roadmap'
     weight: 50
   - name: Contact
     url: '#contact'
