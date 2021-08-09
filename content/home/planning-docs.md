@@ -6,8 +6,8 @@ design:
   columns: 1
 weight: 20  # Order that this section will appear.
 
-title: Documents for Download
-subtitle: 
+title: Planning Documents
+subtitle: (for download)
 ---
 #### A selection of planning documents as we continue to build our Data Handling Infrastructure
 
@@ -25,4 +25,4 @@ subtitle:
 |---|---|---|
 |Ian Hambleton (Project Lead)|Full CV|{{% staticref "uploads/2020Aug_Hambleton_CV.pdf" "newtab" %}}Download{{% /staticref %}}|
 |Ian Hambleton|Short Biosketch|{{% staticref "uploads/2020Aug_Hambleton_bio.pdf" "newtab" %}}Download{{% /staticref %}}|
-|<mark>Selvi Jeyaseelan</mark>|Full CV|{{% staticref "uploads/2020Aug_Hambleton_bio.pdf" "newtab" %}}Download{{% /staticref %}}|
+|<mark>Selvi Jeyaseelan</mark>|Full CV|{{% staticref "uploads/2021_SJ CV.pdf" "newtab" %}}Download{{% /staticref %}}|

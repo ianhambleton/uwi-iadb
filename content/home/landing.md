@@ -35,6 +35,6 @@ advanced:
 <h2 style="text-align:center;">Software ◾︎ Guidelines ◾︎ Training ◾︎ Support</h2>
 
 <br> 
-<p style="text-align:center; color:#999999">Welcome to The University of the West Indies website for supporting and promoting Caribbean Data.</p>
-<p style="text-align:center; color:#999999">We all generate data through our research work. We're here to help you collect, manage, store, and showcase your data.</p>  
+<p style="text-align:center; color:#999999">Follow our progress as we implement our infrastructure for supporting and promoting Caribbean Data.</p>
+<p style="text-align:center; color:#999999">We all generate data through our research work. We're buildng services to help you collect, manage, store, and showcase your data.</p>  
 
