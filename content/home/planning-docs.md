@@ -13,7 +13,7 @@ subtitle: (for download)
 
 |Document|Description|Download|
 |---|---|---|
-|RoadMap|A summary of our implementation roadmap|{{% staticref "uploads/RDH-roadmap-v1.pdf" "newtab" %}}Download{{% /staticref %}}|
+|RoadMap|A summary of our implementation roadmap|{{% staticref "uploads/20210810_1610_Timeline_budget_CC.pdf" "newtab" %}}Download{{% /staticref %}}|
 |Policy|A draft policy on data handling within the University of the West Indies|{{% staticref "uploads/20201101_RDH_policy_draft.pdf" "newtab" %}}Download{{% /staticref %}}|
 |Committee ToR|We operate an oversight committee to approve major strategic decisions. Here is the committee Terms of Reference|{{% staticref "uploads/20200914_RDH Committee Terms of Reference.pdf" "newtab" %}}Download{{% /staticref %}}|
 
@@ -25,4 +25,4 @@ subtitle: (for download)
 |---|---|---|
 |Ian Hambleton (Project Lead)|Full CV|{{% staticref "uploads/2020Aug_Hambleton_CV.pdf" "newtab" %}}Download{{% /staticref %}}|
 |Ian Hambleton|Short Biosketch|{{% staticref "uploads/2020Aug_Hambleton_bio.pdf" "newtab" %}}Download{{% /staticref %}}|
-|<mark>Selvi Jeyaseelan</mark>|Full CV|{{% staticref "uploads/2021_SJ CV.pdf" "newtab" %}}Download{{% /staticref %}}|
+|Selvi Jeyaseelan|Full CV|{{% staticref "uploads/2021_SJ CV.pdf" "newtab" %}}Download{{% /staticref %}}|
